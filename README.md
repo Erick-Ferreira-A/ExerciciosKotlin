@@ -1,2 +1,2 @@
 # ExerciciosKotlin
-Exercícios para pratícar programação em Kotlin.
+Exercícios para práticar programação em Kotlin.
